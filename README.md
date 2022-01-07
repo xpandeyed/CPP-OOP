@@ -1,7 +1,7 @@
 # CPP-OOP
-This repository contains Obeject Oriented Programming in C++ I saved to revise later.  
+This repository contains Obeject Oriented Programming in C++, I saved to revise later.  
   
-This repository has explanation comments for understanding of the code.  
+This repository has explanation comments for the understanding of the code.  
   
 If you are learning OOP in C++ or looking for revision material for C++ OOP, feel free to use this repo as a resource.  
   
