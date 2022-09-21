@@ -1,6 +1,10 @@
 # CPP-OOP
 
 Virtual functions in cpp:
+Virtual functions cannot be static.
+They can be friend function.
+To achieve runtime polymorphism they must be invoked using pointer or reference of base class type.
+Destructors can be virtual but constructors cannot be.
 
 Types of binding:
 1. Late Binding (Runtime binding) is done according to the content of pointer.
