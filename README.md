@@ -1,10 +1,12 @@
 # CPP-OOP
 
 Virtual functions in cpp:
-Virtual functions cannot be static.
-They can be friend function.
-To achieve runtime polymorphism they must be invoked using pointer or reference of base class type.
-Destructors can be virtual but constructors cannot be.
+Virtual functions ensure that the correct function is called for an object, regardless of the type of reference (or pointer) used for function call.
+They are mainly used to achieve Runtime polymorphism  
+Virtual functions cannot be static.  
+They can be friend function.  
+To achieve runtime polymorphism they must be invoked using pointer or reference of base class type.  
+Destructors can be virtual but constructors cannot be.  
 
 ### OOPS advantages and disadvantages
 <table border="2"><tbody><tr><td><strong>Advantages</strong></td><td><strong>Disadvantages</strong></td></tr><tr><td>We can reuse the code multiple times using class</td><td>Size is larger than other programs</td></tr><tr><td>Inherit the class to subclass for data redundancy</td><td>It required a lot of effort to create</td></tr><tr><td>It is easy to maintain and modify</td><td>It is slower than other programs</td></tr><tr><td>It maintains the security of data</td><td>It is not suitable for some sorts of problems</td></tr><tr><td>Low-cost development</td><td>It takes time to get used to it.</td></tr></tbody></table>
