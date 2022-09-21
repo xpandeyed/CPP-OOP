@@ -1,12 +1,15 @@
 # CPP-OOP
+
+Virtual functions in cpp:
+
+Types of binding:
+1. Late Binding (Runtime binding) is done according to the content of pointer.
+2. Early Binding (Comple time binding) is done according to type of pointer.
+
 This repository contains Obeject Oriented Programming in C++, I saved to revise later.  
   
 This repository has explanation comments for the understanding of the code.  
-  
-If you are learning OOP in C++ or looking for revision material for C++ OOP, feel free to use this repo as a resource.  
-  
-I will be adding more and making this reopository better while learning more and revising.  
+
+Feel free to fork and send pull requests.
   
 Feel free to suggest: lalbiharipandeyg@gmail.com  
-  
-If you are using the repo or wishing to use this in future, you can consider being a **Stargazer**.
