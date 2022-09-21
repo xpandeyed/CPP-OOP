@@ -1,5 +1,17 @@
 # CPP-OOP
 
+Types of inheritance:
+1. Single Inheritance
+2. Multi-level
+3. Multiple
+4. Hierarchical
+5. Hybrid
+
+Modes of inheritance:
+1. Private
+2. Protected
+3. Public
+
 Virtual functions in cpp:
 Virtual functions ensure that the correct function is called for an object, regardless of the type of reference (or pointer) used for function call.
 They are mainly used to achieve Runtime polymorphism  
